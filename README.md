@@ -1,6 +1,6 @@
 # lung_nodule_segmentation_and_classification
 environments： 01~04 .ipynb - Colab<br/>
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;interface - local environment<br/>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;interface - local environment: tensorflow pytorch<br/>
                <br/>
 LUNA-16 dataset is uploaded to kaggle<br/>
 <br/>
