@@ -1,6 +1,7 @@
 # lung_nodule_segmentation_and_classification
 environments： 01~04i.pynb - Colab<br/>
                interface - local environment<br/>
+               <br/>
 LUNA-16 dataset is uploaded to kaggle<br/>
 <br/>
 you can choose how many subsets you'd like to use in 01.ipynb, and directly download the data from kaggle to colab<br/>
