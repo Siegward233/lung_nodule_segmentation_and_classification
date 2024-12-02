@@ -11,6 +11,7 @@ You should run the 01 to 04.ipynb files in order, which requires creating some p
 The user interface requires running locally. Please create a virtual environment containing tensorflow and pytorch, and make sure to save the correct model and path.<br/>
 <br/>
 we combined labels from LUNA16 and LUNA22, they are the subset of LIDC-IDRI<br/>
+<br/>
 The processed labels are stored in csv files<br/>
 <br/>
 Make sure you read the instructions above before running each piece of code<br/>
